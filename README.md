@@ -24,7 +24,8 @@ Este curso desarrollará los conocimientos necesarios para el tratamiento de se�
 
 ### Foto grupal
 
- 
+ ![foto](https://github.com/arianacarbajal/ISB_Grupo3/assets/89601813/71681941-4180-41f7-9c9a-eed110cea808)
+
 
 ### Temática del proyecto
 
